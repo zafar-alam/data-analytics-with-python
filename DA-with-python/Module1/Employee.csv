@@ -1,0 +1,6 @@
+name,department,salary,status
+Alice,Engineering,85000,TRUE
+Bob,Finance,72000,TRUE
+Carol,Engineering,91000,FALSE
+David,HR,65000,TRUE
+Eve,Finance,78000,TRUE
